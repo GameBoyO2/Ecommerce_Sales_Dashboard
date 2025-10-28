@@ -25,8 +25,7 @@ To create an interactive dashboard that helps decision-makers quickly understand
 - **Dashboard Design & Storytelling**
 
 ## 🖼️ Dashboard Preview
-*(Add your screenshot here — rename it `dashboard.png` and place it in an `images/` folder)*  
-![E-commerce Dashboard](images/dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## ⚙️ Dataset
 - Data Source: E-commerce sales dataset (simulated)
@@ -45,5 +44,5 @@ To create an interactive dashboard that helps decision-makers quickly understand
 
 ## 📄 Author
 **Soubhagya Yashvardhan**  
-📧 [Your Email or LinkedIn Profile link here]  
-💼 Passionate about Data Visualization | Power BI | Analytics
+📧 https://www.linkedin.com/in/soubhagya-yashvardhan-19514634a/
+
